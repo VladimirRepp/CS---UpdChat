@@ -5,6 +5,7 @@ Using:
 - C#
 - System.Net.Sockets
 - .Net9
+- IDE: MVS 2022
 - Console (for client)
 
 For launch:
