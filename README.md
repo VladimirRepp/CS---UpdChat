@@ -7,6 +7,7 @@ Using:
 - .Net9
 - IDE: MVS 2022
 - Console (for client)
+- [Based - metanit.com](https://metanit.com/sharp/net/5.3.php)
 
 For launch:
 - Run several UpdChat.exe
